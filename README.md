@@ -1,0 +1,1 @@
+This project is a recipe website with an index linking to three different recipes. In this project I learned how to construct a basic layout for a website and how to use relative links within the website.

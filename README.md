@@ -1,0 +1,3 @@
+This project was the first webpage made in the TOP curriculum. In it I became more familiar with the structure involved in making a webpage,
+along with gaining an understanding of relative vs. absolute links. I frequently used the command line to create directories used to store
+images and html files. I also gained familiarity with the best practices surrounding commit messages, staging files, and pushing to the main branch.

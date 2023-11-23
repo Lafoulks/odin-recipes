@@ -1,6 +1,17 @@
 h1 {
     color: rgb(43, 41, 32);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-color: rgb(38, 41, 41);
+    border-width: 3px;
+    border-style: solid;
+    text-align: center;
+}
+
+.recipe-list > li {
+    font-size: 20px;
+    text-align: center;
+    list-style: none;
+    padding: 10px;
 }
 
 .plum.title {
